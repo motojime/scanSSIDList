@@ -1,2 +1,2 @@
 # scanSSIDList
-How to How to use 
+How to use Wlanapi.
